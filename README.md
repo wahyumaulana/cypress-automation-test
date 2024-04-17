@@ -1,8 +1,8 @@
-# Cypress Automation Test
+# Technical Documentation
 
 ## Introduction
 
-Welcome to the documentation for the `Cypress Automation Test` repository. This documentation provides information on how to install, project structure, test cases, and  how to run the test. `Cypress Automation Test` built with JavaScript (JS) that follows the Page Object Model (POM) design pattern to implement the UI tests for **Autobahn SignUp Test**.
+Welcome to the documentation for the `cypress-automation-test` repository. This documentation provides information on how to install, project structure, test cases, and  how to run the test. `cypress-automation-test` built with JavaScript (JS) that follows the Page Object Model (POM) design pattern to implement the UI tests for **Autobahn SignUp Test**.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ $ npm install
 ```
 
 ### Project Structure
-The project structure of `Cypress Automation Test` is as follows:
+The project structure of `cypress-automation-test` is as follows:
 
 ```
 cypress-automation-test/
